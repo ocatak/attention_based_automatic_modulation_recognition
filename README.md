@@ -232,7 +232,6 @@ If you use this code in your research, please cite our paper:
 @article{catak2024attention,
   title={Comparative Analysis of Attention Mechanisms for Automatic Modulation Classification in Radio Frequency Signals},
   author={Catak, Ferhat Ozgur and Kuzlu, Murat and Cali, Umit},
-  journal={IEEE Transactions on Cognitive Communications and Networking},
   year={2024},
   publisher={IEEE}
 }
